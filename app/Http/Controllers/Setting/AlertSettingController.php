@@ -1,18 +1,5 @@
 <?php
-/*
- * Mr. Umesh Kumar Yadav
- * Business With Technology Pvt. Ltd.
- * Kathmandu-32 (Subidhanagar, Tinkune), Nepal
- * +977-9868156047
- * freelancerumeshnepal@gmail.com
- * https://codecanyon.net/item/unlimited-edu-firm-school-college-information-management-system/21850988
- */
-/**
- * Created by PhpStorm.
- * User: Umesh Kumar Yadav
- * Date: 02/04/2018
- * Time: 12:38 PM
- */
+
 namespace App\Http\Controllers\Setting;
 
 use App\Http\Controllers\CollegeBaseController;
